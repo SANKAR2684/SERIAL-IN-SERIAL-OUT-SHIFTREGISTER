@@ -63,3 +63,4 @@ RegisterNumber:24900402
 ![Screenshot 2024-12-09 204911](https://github.com/user-attachments/assets/08b89f66-d357-4446-b105-ef743841d2f1)
 
 **RESULTS**
+Thus,SISO Shift Register using verilog and validating their functionality using their functional tables has successful execution of the program.
